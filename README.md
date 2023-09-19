@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+[![TaniiGo](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FTaniiGo)](https://atcoder.jp/users/TaniiGo)
+[![TaniiGo](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2FTaniiGo)](https://codeforces.com/profile/TaniiGo)
 <!--
 **TaniiGo/TaniiGo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
